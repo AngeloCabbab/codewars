@@ -1,3 +1,6 @@
+// [geometry basics distance between points in 2d]
+// [8 kyu]
+// [javascript]
 function distanceBetweenPoints(a, b) 
 {
 const
