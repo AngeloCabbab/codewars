@@ -1,3 +1,6 @@
+// [geometry basics distance between points in 2d]
+// [8 kyu]
+// [c++]
 #include <cmath>
 double distance_between_two_points(const Point& a, const Point& b) 
 {
